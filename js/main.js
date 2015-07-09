@@ -25,8 +25,8 @@ $(document).ready(function () {
     //code for the background slider
     $.backstretch([
         "img/bg1.jpg",
-        "img/4.jpg",
-        "img/5.jpg"
+        "img/bg2.jpg",
+        "img/bg3.jpg"
 
     ], {
         fade: 750,
