@@ -10,5 +10,9 @@
     letter-spacing: 1px;
     line-height: 28px;
 	text-decoration: none;
-    border-bottom: 3px solid #FFF;
+    border-bottom: 2px solid #FFF;
+}
+.linkenu:hover {
+    border-bottom: 2px solid #333;
+    color:#99CCFF;
 }
