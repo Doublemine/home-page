@@ -1,0 +1,18 @@
+.animate-init {
+    position: relative;
+    top: -10px;
+    opacity: 0;
+}
+
+.linkenu {
+    color: #fff;
+    font-family: "Aleo-Regular", arial;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 28px;
+
+}
+
+.linkenu a:hover {
+    border-bottom: 1px solid #333;
+}
