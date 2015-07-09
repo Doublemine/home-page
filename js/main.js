@@ -24,12 +24,13 @@ $(document).ready(function () {
 
     //code for the background slider
     $.backstretch([
-        "img/bg1.jpg",
-        "img/bg2.jpg",
-        "img/bg3.jpg"
+        "img/img1.jpg",
+        "img/img2.jpg",
+        "img/img3.jpg",
+        "img/img4.jpg"
 
     ], {
-        fade: 750,
+        fade: 1500,
         duration: 10000
     });
 
