@@ -24,7 +24,7 @@ $(document).ready(function () {
 
     //code for the background slider
     $.backstretch([
-        "img/1.jpg",
+        "img/bg1.jpg",
         "img/4.jpg",
         "img/5.jpg"
 
