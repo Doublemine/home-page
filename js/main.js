@@ -31,7 +31,7 @@ $(document).ready(function () {
 
     ], {
         fade: 1500,
-        duration: 10000
+        duration: 5000
     });
 
     $(".counter").TimeCircles({
